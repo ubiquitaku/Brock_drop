@@ -1,0 +1,6 @@
+name: Block_drop
+version: ${project.version}
+main: ubiquitaku.block_drop.Block_drop
+api-version: 1.13
+commands:
+  bd:
